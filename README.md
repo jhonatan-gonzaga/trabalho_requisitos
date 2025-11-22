@@ -47,10 +47,10 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs\diagrama_caso_de_uso_V2.png)
+![Diagrama de Casos de Uso](docs/diagrama_caso_de_uso_V2.png)
 
 ### Diagrama de Sequência
-![Diagrama de Sequência](docs\diagrama_sequencia_V2.png)
+![Diagrama de Sequência](docs/diagrama_sequencia_V2.png)
 
 ### Diagrama de Atividades
 ![Diagrama de Atividades](docs/diagrama_atividades.png)
@@ -63,4 +63,4 @@ O sistema adota o estilo arquitetural **MVC (Model–View–Controller)**, separ
 - **View:** interface e interação com o usuário.  
 - **Controller:** coordenação entre as camadas.
 
-- ![Arquiteura do Sistema](docs\arquitetura.drawio.png)
+- ![Arquiteura do Sistema](docs/arquitetura.drawio.png)
