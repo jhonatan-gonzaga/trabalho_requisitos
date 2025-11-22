@@ -47,7 +47,7 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs/casos_de_uso.jpg)
+![Diagrama de Casos de Uso](docs\diagrama_caso_de_uso_V2.png)
 
 ### Diagrama de Sequência
 ![Diagrama de Sequência](docs/diagrama_sequencia.png)
