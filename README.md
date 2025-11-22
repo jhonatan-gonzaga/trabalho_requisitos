@@ -53,6 +53,8 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 
 ### Diagrama de Sequência
 ![Diagrama de Sequência](docs/diagrama_sequencia_V2.png)
+![Diagrama de Sequência](docs/Diagrama_Sequencia_V2.webp)
+
 
 ### Diagrama de Atividades
 ![Diagrama de Atividades](docs/diagrama_atividades.png)
