@@ -57,8 +57,8 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 
 
 ### Diagrama de Atividades
-![Diagrama de Atividades](docs/diagrama_atividades.png)
-
+![Diagrama de Atividades](docs/Diagrama_atividade_V2.webp)
+![Diagrama de Atividades](docs/Diagrama_atividade_V2..webp)
 ---
 
 ## Arquitetura do Sistema
