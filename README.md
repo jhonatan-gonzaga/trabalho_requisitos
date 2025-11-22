@@ -32,9 +32,11 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 ### Requisitos Não Funcionais (RNF)
 | ID | Descrição | Prioridade |
 |----|------------|-----------|
-| RNF01 | O sistema deve responder em até 2 segundos por requisição. | Essencial |
-| RNF02 | O acesso deve ser protegido por autenticação segura. | Essencial |
-| RNF03 | A interface deve ser intuitiva e responsiva. | Essencial |
+| RNF01 | O sistema deve criptografar todas as senhas dos usuários no banco de dados.                          | Essencial    |
+| RNF02 | O sistema deve estar disponível para acesso 99% do tempo.                                            | Essencial    |
+| RNF03 | O sistema deve ser compatível com os navegadores web mais utilizados (Chrome, Firefox, Safari e Edge). | Importante |
+| RNF04 | O tempo de resposta para uma busca de livros no catálogo não deve exceder 2 segundos.                | Importante   |
+| RNF05 | O sistema deve permitir a personalização do tema entre modo claro e escuro.                          | Desejável    |
 
 ### Regras de Negócio (RN)
 | ID | Descrição | Prioridade |
@@ -47,7 +49,7 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs\diagrama_caso_de_uso_V2.png)
+![Diagrama de Casos de Uso](docs/diagrama_caso_de_uso_V2.png)
 
 ### Diagrama de Sequência
 ![Diagrama de Sequência](docs/diagrama_sequencia_V2.png)
@@ -65,4 +67,4 @@ O sistema adota o estilo arquitetural **MVC (Model–View–Controller)**, separ
 - **View:** interface e interação com o usuário.  
 - **Controller:** coordenação entre as camadas.
 
-- ![Arquiteura do Sistema](docs/arquiterura.png)
+![Arquiteura do Sistema](docs/arquitetura.drawio.png)
