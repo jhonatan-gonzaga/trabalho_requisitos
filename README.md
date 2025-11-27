@@ -41,8 +41,11 @@ Inclui o suporte a perfis de usuários leitores e bibliotecários, abrangendo as
 ### Regras de Negócio (RN)
 | ID | Descrição | Prioridade |
 |----|------------| -----------|
-| RN01 | Cada usuário deve possuir um e-mail único para cadastro. | Essencial |
-| RN02 | Uma tarefa concluída não pode ser editada. | Essencial | Essencial |
+| RN01 | Usuários com devoluções em atraso não podem realizar novos empréstimos ou renovações. | Importante |
+| RN02 | Cada usuário pode ter no máximo 3 (três) livros emprestados simultaneamente. | Importante |
+| RN03 | A renovação de um empréstimo só é permitida caso não haja fila de reserva para o livro. | Importante |
+| RN04 | O livro reservado ficará disponível para retirada por um prazo de 48 horas. | Importante |
+| RN05 | Professores cadastrados possuem um prazo de devolução estendido para 30 dias, enquanto os demais usuários possuem 15 dias. | Importante |
 
 ---
 
