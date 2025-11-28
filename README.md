@@ -70,4 +70,4 @@ O sistema adota o estilo arquitetural **MVC (Model–View–Controller)**, separ
 - **View:** interface e interação com o usuário.  
 - **Controller:** coordenação entre as camadas.
 
-![Arquiteura do Sistema](docs/arquitetura.drawio.png)
+![Arquiteura do Sistema](docs/arquitetura_V2.png)

@@ -1,6 +1,6 @@
 ### 🔎 Auditoria de Configuração – Qualidade do Processo
 Avalia o **cumprimento das práticas de DevOps e controle de versão**.  
-- [ ] Branch correta (ex: `feature/*` saindo de `development`)  
+- [ ] Branch correta (ex: `feature/*` saindo de `main`)  
 - [ ] Commits seguem padrão definido  
 - [ ] Pull Request revisado por pelo menos 1 membro  
 - [ ] Pipeline de build/test executado com sucesso (quando aplicável)    
